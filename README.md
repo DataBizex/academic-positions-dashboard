@@ -38,14 +38,14 @@ The map is filtered to the four European regions in the `Countries[Region]` colu
 
 | File | Purpose |
 | --- | --- |
-| `Academic Positions Overview.pbix` | The Power BI report, data included (Import mode) |
+| `Academic Positions Dashboard.pbix` | The Power BI report, data included (Import mode) |
 | `Academic Positions Power BI Dataset.xlsx` | The source snapshot the report was built from, one sheet per table |
 | `screenshot.png` | Static preview of the page |
 
 ## How to open
 
 1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free, Windows).
-2. Download `Academic Positions Overview.pbix` and open it.
+2. Download `Academic Positions Dashboard.pbix` and open it.
 3. No data connection is needed, the dataset is embedded in the file.
 
 ## Data source
